@@ -5,3 +5,7 @@ Public presentation and encrypted delivery assets for a paid German-language sta
 The downloadable archive is encrypted. Customers receive the access password only through the Gumroad product content after purchase.
 
 No personal data, source documents, or unencrypted paid content are stored in this repository.
+
+## Free sample
+
+- [SPSS Testwahl - three-page German sample](SPSS-Testwahl-Leseprobe.pdf)
